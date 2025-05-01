@@ -1,5 +1,8 @@
-# Student Transport Riders Association Code of Conduct
-Last updated: *8 April 2025*
+---
+description: "Code of conduct policy for STRA members, staff and volunteers."
+lastUpdated: 2025-04-08
+---
+# Code of Conduct
 
 ## Introduction
 Student Transport Riders Association ('the Association') expects members of the Association to act lawfully, honestly, ethically, and with integrity at all times, and in every aspect of their involvement with the Association.
