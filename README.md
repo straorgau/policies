@@ -3,3 +3,4 @@ This repository contains the policies that [Student Transport Riders Association
 
 ## Directory
 - [STRA Code of Conduct](https://codeberg.org/stra/policies/src/branch/main/policies/CODE-OF-CONDUCT.md)
+- [STRA Rules](https://codeberg.org/stra/policies/src/branch/main/policies/RULES.md)
