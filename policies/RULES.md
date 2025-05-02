@@ -3,9 +3,22 @@ description: "Organisational rules (constitution) for the Student Transport Ride
 lastUpdated: 2025-01-06
 ---
 
-**Note**: This is a copy of the organisational rules, rendered in a friendly format for the purposes of display in Student Transport Riders Association websites. For the rules, as submitted to Consumer Affairs Victoria, view this [DOCX file](https://codeberg.org/stra/policies/src/branch/main/policies/RULES.docx).
-
 # Rules
+
+**Format Note**: This is a copy of the organisational rules, rendered in a friendly format for the purposes of display in Student Transport Riders Association websites. For the rules, as submitted to Consumer Affairs Victoria, view this [DOCX file](https://codeberg.org/stra/policies/src/branch/main/policies/RULES.docx). Below is the original text.
+
+--------
+
+***Note:** The information in Justice Connect's Rules Tool is not legal
+advice. You might need legal advice on your particular situation. The
+rules produced by this tool may only be used for personal use or
+non-commercial use within a not-for-profit organisation. The rules
+produced by this tool are based on the answers you have provided and
+Justice Connect hasn't considered your organisation's particular legal
+structure, needs or operations. You should seek legal advice if you are
+not sure whether the rules produced by this tool meets the needs of your
+organisation.*
+
 
 Incorporated under the *Associations Incorporation Reform Act 2012*
 (Vic) (**the Act**)
@@ -881,3 +894,10 @@ In this rule, 'member' includes a Committee Member.
 
 In these rules, \'writing\' includes email and other correspondence in
 electronic form.
+
+***This constitution was produced using a template tool created by
+Justice Connect. For more information see
+[www.nfplaw.org.au.](http://www.nfplaw.org.au./)***
+
+Produced on 11/11/2024.
+
