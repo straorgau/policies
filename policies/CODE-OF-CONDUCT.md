@@ -16,6 +16,7 @@ Following this code will help to protect members of the Association from inappro
 Upon joining the Association, and being a continued member, means that you agree to the following:
 
 Members must:
+
   - act in the Associations' best interests;
 
   - act with a degree of professionalism and integrity;
@@ -31,6 +32,7 @@ Members must:
   - support fellow Members / Volunteers who identify and report any breaches of this Code of Conduct.
 
 Examples of unacceptable conduct include:
+
 - bigoted harassment against person(s) of a recognised minority group (e.g. homophobia, transphobia);
 
 - breaches of confidentiality and/or privacy;
