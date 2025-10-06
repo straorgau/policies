@@ -1,6 +1,6 @@
 ---
 description: "Code of conduct policy for STRA members, staff and volunteers."
-lastUpdated: 2025-04-08
+lastUpdated: 2025-10-06
 ---
 # Code of Conduct
 
@@ -15,14 +15,23 @@ Following this code will help to protect members of the Association from inappro
 ## Code of Conduct
 Upon joining the Association, and being a continued member, means that you agree to the following:
 
-- Members will treat everyone with respect & common courtesy, taking into account people's individual experiences and views.
-- Always act in an inclusive, and non-discrimatory manner towards all persons.
-- Act in honesty and integrity.
-- Uphold the vision and mission of the Association.
-- Follow all reasonable and lawful directions.
-- Be accountable for our own actions.
+Members must:
+  - act in the Associations' best interests;
+  - act with a degree of professionalism and integrity;
+  - refrain from engaging in any conduct that may cause harm to the reputation of the Association;
+  - not engage in unlawful discrimination;
+  - not engage in any bullying, harrassment, or other physical / verbal conduct.
+  - not ignore actual / perceived behaviour or conduct that may be in breach of this Code;
+  - support fellow Members / Volunteers who identify and report any breaches of this Code of Conduct.
 
-## Breaches
+Examples of unacceptable conduct include:
+- bigoted harassment against person(s) of a recognised minority group (e.g. homophobia, transphobia);
+- breaches of confidentiality and/or privacy;
+- bullying or harassment of towards another Member or Volunteer;
+- defaming the Association, or otherwise bring STRA into disrepute.
+
+
+## Breaches & Disciplinary Action
 Breaches of the Code of Conduct through any channel representing the Association (e.g. events, chatrooms, communications), can be reported to the Committee at [committee@stra.org.au](mailto:committee@stra.org.au).
 
-Such breaches will be investigated thoroughly, and may result in the member receiving a reprimand, or otherwise a suspension or termination of membership.
+Such breaches will be investigated thoroughly, and may result in the member facing disciplinary action under part 27 of the [*STRA Constitution*](https://stra.org.au/policies/rules#_27-disciplining-members).
