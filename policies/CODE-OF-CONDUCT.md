@@ -17,11 +17,17 @@ Upon joining the Association, and being a continued member, means that you agree
 
 Members must:
   - act in the Associations' best interests;
+
   - act with a degree of professionalism and integrity;
+
   - refrain from engaging in any conduct that may cause harm to the reputation of the Association;
+
   - not engage in unlawful discrimination;
+
   - not engage in any bullying, harrassment, or other physical / verbal conduct.
+
   - not ignore actual / perceived behaviour or conduct that may be in breach of this Code;
+  
   - support fellow Members / Volunteers who identify and report any breaches of this Code of Conduct.
 
 Examples of unacceptable conduct include:
