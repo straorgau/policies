@@ -27,13 +27,16 @@ Members must:
   - not engage in any bullying, harrassment, or other physical / verbal conduct.
 
   - not ignore actual / perceived behaviour or conduct that may be in breach of this Code;
-  
+
   - support fellow Members / Volunteers who identify and report any breaches of this Code of Conduct.
 
 Examples of unacceptable conduct include:
 - bigoted harassment against person(s) of a recognised minority group (e.g. homophobia, transphobia);
+
 - breaches of confidentiality and/or privacy;
+
 - bullying or harassment of towards another Member or Volunteer;
+
 - defaming the Association, or otherwise bring STRA into disrepute.
 
 
