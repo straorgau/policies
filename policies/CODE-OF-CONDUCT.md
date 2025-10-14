@@ -45,4 +45,4 @@ Examples of unacceptable conduct include:
 ## Breaches & Disciplinary Action
 Breaches of the Code of Conduct through any channel representing the Association (e.g. events, chatrooms, communications), can be reported to the Committee at [committee@stra.org.au](mailto:committee@stra.org.au).
 
-Such breaches will be investigated thoroughly, and may result in the member facing disciplinary action under part 27 of the *STRA Rules*.
+Such breaches will be investigated thoroughly, and may result in the member facing disciplinary action under section 27 of the *STRA Rules*.
