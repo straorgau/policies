@@ -8,12 +8,12 @@ lastUpdated: 2025-10-06
 Student Transport Riders Association ('the Association') expects members of the Association to act lawfully, honestly, ethically, and with integrity at all times, and in every aspect of their involvement with the Association.
 
 ## Scope
-All employees, volunteers, and members, regardless of role, are bound by the Code of Conduct.
+All employees, volunteers, and members, are bound by the Code of Conduct.
 
 Following this code will help to protect members of the Association from inappropriate behaviour from fellow members and staff.
 
 ## Code of Conduct
-Upon joining the Association, and being a continued member, means that you agree to the following:
+Upon joining the Association, and being a continued member, means that you agree to the following rules.
 
 Members must:
 
@@ -23,21 +23,23 @@ Members must:
 
   - refrain from engaging in any conduct that may cause harm to the reputation of the Association;
 
-  - not engage in unlawful discrimination;
+  - not engage in discriminatory behaviour;
 
   - not engage in any bullying, harrassment, or other physical / verbal conduct.
 
-  - not ignore actual / perceived behaviour or conduct that may be in breach of this Code;
+  - alert the Committee of any actual / perceived behaviour or conduct that may be in breach of this Code;
 
   - support fellow Members / Volunteers who identify and report any breaches of this Code of Conduct.
 
 Examples of unacceptable conduct include:
 
-- bigoted harassment against person(s) of a recognised minority group (e.g. homophobia, transphobia);
+- bigoted harassment against person(s) of a marginalised group (e.g. homophobia, transphobia, misogyny);
 
 - breaches of confidentiality and/or privacy;
 
 - bullying or harassment of towards another Member or Volunteer;
+
+- genocide denial;
 
 - defaming the Association, or otherwise bring STRA into disrepute.
 
