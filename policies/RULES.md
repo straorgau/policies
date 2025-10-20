@@ -10,6 +10,7 @@ lastUpdated: 2025-10-20
 - [4. Use of the association's income and assets](#4-use-of-the-associations-income-and-assets)
 - [5. Financial year](#5-financial-year)
 - [6. Members](#6-members)
+  - [6.1. Classes of Membership](#61-classes-of-membership)
 - [7. Membership applications](#7-membership-applications)
 - [8. Membership Fees](#8-membership-fees)
 - [9. Members' rights, obligations and liabilities](#9-members-rights-obligations-and-liabilities)
@@ -96,10 +97,18 @@ runs for a period of 12 months (Financial Year).
 
 The association must have at least five members.
 
-To join the association, the prospective member must:
+To join the association, the prospective member must qualify for any of the 
+Classes of Membership, defined in rule 6.1.
 
-• be a student, or a staff member, at any Australian secondary or
-tertiary education institution
+### 6.1. Classes of Membership
+The Classes of Membership of the association are:
+
+- Student Membership;
+- Staff Membership;
+- Associate Membership;
+- Legacy Membership,
+
+each a class of Membership.
 
 ## 7. Membership applications
 
