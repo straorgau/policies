@@ -3,8 +3,7 @@ description: "Organisational rules (constitution) for the Student Transport Ride
 lastUpdated: 2025-10-20
 ---
 
-## Contents
-- [Contents](#contents)
+## Contents <!-- omit from toc -->
 - [1. The association's name](#1-the-associations-name)
 - [2. The association's purposes](#2-the-associations-purposes)
 - [3. The association's powers](#3-the-associations-powers)
