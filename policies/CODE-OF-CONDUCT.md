@@ -13,11 +13,11 @@ All employees, volunteers, and members, are bound by the Code of Conduct.
 Following this code will help to protect members of the Association from inappropriate behaviour from fellow members and staff.
 
 ## Code of Conduct
-Upon joining the Association, and being a continued member, means that you agree to the following rules.
+As a requirement of membership to the Association, you must agree to the following rules.
 
 Members must:
 
-  - act in the Associations' best interests;
+  - act in the Association's best interests;
 
   - act with a degree of professionalism and integrity;
 
@@ -33,7 +33,7 @@ Members must:
 
 Examples of unacceptable conduct include:
 
-- bigoted harassment against person(s) of a marginalised group (e.g. homophobia, transphobia, misogyny);
+- bigoted harassment against person(s) of a marginalised group (e.g. racism, transphobia, misogyny);
 
 - breaches of confidentiality and/or privacy;
 
