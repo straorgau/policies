@@ -64,7 +64,8 @@ To join the association, the prospective member must be primarily resident in th
 ### 6a Membership Classes
 The classes of membership are as follows:
 - Student Member;
-- Staff Member,
+- Staff Member;
+- Youth Member,
 
 each a class of membership recognised by the association.
 
@@ -72,6 +73,8 @@ each a class of membership recognised by the association.
 Student Members must be a current student of a recognised Australian institution at secondary or tertiary level, inclusive of P-12 schools.
 
 Staff Members must be a current staff member of a recognised Australian education institution at secondary or tertiary level, regardless of the role that a Staff Member may undertake during their employment at the institution.
+
+Youth Members must be within the age range of 14-25 (inclusive), and otherwise do not qualify for the classes of Student or Staff membership.
 
 ### 6c Membership Reclassification
 The Committee may re-assign or transfer a member from one class of membership to another, if a member ceases to fulfill the criteria applicable to their current class of membership. Following reclassification, the Secretary must notify the member.
