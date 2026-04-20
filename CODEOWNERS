@@ -1,0 +1,7 @@
+# This file helps Github automatically
+# assign reviewers to pull requests & issues to this repository.
+# See the following Github Docs link:
+#   https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Assign all file ownership to the Committee team by default.
+*   @straorgau/committee
