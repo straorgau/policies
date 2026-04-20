@@ -5,20 +5,9 @@ lastUpdated: 2025-01-06
 
 # Rules
 
-**Format Note**: This is a copy of the organisational rules, rendered in a friendly format for the purposes of display in Student Transport Riders Association websites. For the rules, as submitted to Consumer Affairs Victoria, view this [DOCX file](https://codeberg.org/stra/policies/src/branch/main/policies/RULES.docx). Below is the original text.
+**Format Note**: This is a copy of the organisational rules, rendered in a friendly format for the purposes of display in Student Transport Riders Association websites. For the rules, as submitted to Consumer Affairs Victoria, view this [DOCX file](https://github.com/straorgau/policies/blob/main/policies/RULES.docx). Below is the original text.
 
 --------
-
-***Note:** The information in Justice Connect's Rules Tool is not legal
-advice. You might need legal advice on your particular situation. The
-rules produced by this tool may only be used for personal use or
-non-commercial use within a not-for-profit organisation. The rules
-produced by this tool are based on the answers you have provided and
-Justice Connect hasn't considered your organisation's particular legal
-structure, needs or operations. You should seek legal advice if you are
-not sure whether the rules produced by this tool meets the needs of your
-organisation.*
-
 
 Incorporated under the *Associations Incorporation Reform Act 2012*
 (Vic) (**the Act**)
