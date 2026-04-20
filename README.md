@@ -11,5 +11,5 @@ This repository is currently used for Markdown-based policies for the organisati
 To contribute to this repository, make sure to create a pull request by editing any of the policy documents in the `policies/` folder. Make sure to:
 - Set the pull request with either;
   - **votable** - the changes that the pull request contains **will be voted on** in a General Meeting. Use this for changes for the STRA Rules.
-  - **non-votable** - the changes that the pull request contains
+  - **non-votable** - the changes that the pull request contains **do not need to be voted on** in a General Meeting. Use this for any other internal policy, or the STRA Code of Conduct.
 - Populate the pull request template with a concise description of the change.
