@@ -61,12 +61,20 @@ The association must have at least five members.
 
 To join the association, the prospective member must be primarily resident in the State of Victoria, and currently qualify for any class of membership listed in Section 6a.
 
-### 6a Membership
-The classes of membership of the association are as follows:
+### 6a Membership Classes
+The classes of membership are as follows:
 - Student Member;
 - Staff Member,
 
-each recognised by the association as having a single vote in General Meetings.
+each a class of membership recognised by the association.
+
+### 6b Membership Class Eligibility
+Student Members must be a current student of a recognised Australian institution at secondary or tertiary level, inclusive of P-12 schools.
+
+Staff Members must be a current staff member of a recognised Australian education institution at secondary or tertiary level, regardless of the role that a Staff Member may undertake during their employment at the institution.
+
+### 6c Membership Reclassification
+The Committee may re-assign or transfer a member from one class of membership to another, if a member ceases to fulfill the criteria applicable to their current class of membership. Following reclassification, the Secretary must notify the member.
 
 ## 7 Membership applications
 
