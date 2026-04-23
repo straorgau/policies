@@ -75,6 +75,8 @@ Student Members must be a current student of a recognised Australian institution
 
 Staff Members must be a current staff member of a recognised Australian education institution at secondary or tertiary level, regardless of the role that a Staff Member may undertake during their employment at the institution.
 
+Associate Members must not otherwise qualify for any other Membership Class.
+
 ### 6c Membership Reclassification
 The Committee may re-assign or transfer a member from one class of membership to another, if a member ceases to fulfill the criteria applicable to their current class of membership. Following reclassification, the Secretary must notify the member.
 
@@ -159,6 +161,7 @@ and annual subscription fees (if any).
 ## 10 Member entitlements to vote
 A member of the association of the following Classes of Membership are entitled to the following number of votes:
 
+- Associate Member - no vote;
 - Student Member - 1 vote;
 - Staff Member - 1 vote;
 - Legacy Member - 1 vote.
