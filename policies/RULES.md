@@ -156,7 +156,14 @@ stops.
 Each member's liability is limited to payment of that member\'s joining
 and annual subscription fees (if any).
 
-## 10 Ending membership
+## 10 Member entitlements to vote
+A member of the association of the following Classes of Membership are entitled to the following number of votes:
+
+- Student Member - 1 vote;
+- Staff Member - 1 vote;
+- Legacy Member - 1 vote.
+
+## 11 Ending membership
 
 A member stops being a member if:
 
@@ -185,13 +192,13 @@ If a person stops being a member, the Secretary must, as soon as
 practicable, enter the date the person stopped being a member in the
 members\' register.
 
-## 11 The Committee
+## 12 The Committee
 
 The association is governed by a management committee (**Committee**)
 that is made up of committee members elected in accordance with these
 rules (**Committee Members**).
 
-## 12 The Committee's responsibilities and functions
+## 13 The Committee's responsibilities and functions
 
 The Committee is responsible for management of the association and can
 exercise all powers and functions of the association (consistently with
@@ -221,7 +228,7 @@ making sure:
   Act) of the association are kept properly and in accordance with
   these rules.
 
-## 13 The Committee Members
+## 14 The Committee Members
 
 The Committee is made up of the following Committee Members:
 
@@ -244,7 +251,7 @@ the member:
 
 - is entitled to vote at a general meeting of the association.
 
-## 14 Election of the Committee
+## 15 Election of the Committee
 
 The AGM or SGM must by resolution decide how many ordinary Committee
 Members (if any) it wishes to sit on the Committee.
@@ -321,7 +328,7 @@ If two or more candidates receive the same number of votes, and not all
 of those candidates are to be elected, the returning officer must decide
 by lot which is to be elected.
 
-## 15 General duties of Committee Members
+## 16 General duties of Committee Members
 
 As soon as practicable after being elected or appointed to the
 Committee, each Committee Member must become familiar with these rules
@@ -352,7 +359,7 @@ In addition to any duties imposed by these rules, a Committee Member
 must perform any other duties imposed from time to time by resolution at
 a general meeting of the association.
 
-## 16 Conflict of interest
+## 17 Conflict of interest
 
 A Committee Member who has a material personal interest in a matter
 being considered at a committee meeting must disclose the Committee
@@ -376,7 +383,7 @@ This rule does not apply to a material personal interest:
 
 The Committee may keep a conflict of interest register.
 
-## 17 Term of office
+## 18 Term of office
 
 Subject to these rules:
 
@@ -402,7 +409,7 @@ Subject to these rules:
 - Committee Members can be re-elected for a maximum overall term of
   eight years.
 
-## 18 The Secretary
+## 19 The Secretary
 
 The Secretary must be at least 18 years of age, be resident in Australia
 and consent to being appointed as Secretary.
@@ -411,7 +418,7 @@ The Secretary must perform any duty or function required under the Act
 or these rules to be performed by the Secretary, including maintaining
 the members\' register.
 
-## 19 Committee Member resignations, removal and casual vacancies
+## 20 Committee Member resignations, removal and casual vacancies
 
 A Committee Member stops being on the Committee if they:
 
@@ -447,7 +454,7 @@ Committee must appoint a new Secretary within 14 days.
 
 The Committee may act despite any vacancy in its membership.
 
-## 20 Calling committee meetings
+## 21 Calling committee meetings
 
 The Secretary must give seven days' written notice of a committee
 meeting to Committee Members unless the meeting is an urgent meeting.
@@ -460,7 +467,7 @@ The Committee can decide how often it meets.
 A special committee meeting may be convened by the President or by a
 majority of Committee Members.
 
-## 21 Committee meetings procedure
+## 22 Committee meetings procedure
 
 As long as everyone can hear and communicate clearly at the same time,
 committee meetings may be held at more than one place using technology
@@ -506,7 +513,7 @@ commencement time of a committee meeting:
   place to which the committee meeting is adjourned must be given in
   accordance with these rules.
 
-## 22 General meetings
+## 23 General meetings
 
 The association must hold an AGM within five months of the end of the
 association's Financial Year or such other time as permitted by law.
@@ -530,7 +537,7 @@ The ordinary business of the AGM is to:
 The AGM may also conduct any other business of which notice to the
 Committee Members has been given in accordance with these rules.
 
-## 23 Calling a Special General Meeting
+## 24 Calling a Special General Meeting
 
 The Committee must convene a SGM if a request to do so is made in
 accordance with this rule by at least 10% of the total number of members
@@ -562,7 +569,7 @@ A SGM convened by members must:
 The association must reimburse all reasonable expenses incurred by the
 members convening a SGM.
 
-## 24 Notice of general meetings (including special resolutions)
+## 25 Notice of general meetings (including special resolutions)
 
 Notice of the date, time and place of a general meeting must be provided
 to members at least 14 days (or 21 days if a special resolution is
@@ -579,7 +586,7 @@ If a special resolution is proposed, the notice must also include:
 - a statement of the intention to propose the resolution as a special
   resolution.
 
-## 25 General meetings procedure
+## 26 General meetings procedure
 
 As long as everyone can hear and communicate clearly at the same time,
 general meetings may be held at more than one place using technology
@@ -649,7 +656,7 @@ Quorum is 10% of the members or any three members of the association
 
 Members may not vote by proxy at general meetings.
 
-## 26 Custody of documents and members' access to documents
+## 27 Custody of documents and members' access to documents
 
 The Treasurer must keep custody of the financial records of the
 association for the current Financial Year and any other financial
@@ -701,7 +708,7 @@ access to their details on the members\' register if they have special
 circumstances. The Secretary will decide if there are special
 circumstances, and must write to the member outlining their decision.
 
-## 27 Disciplining members
+## 28 Disciplining members
 
 The Committee can discipline a member of the association if it considers
 the member has breached these rules, is refusing to support the purposes
@@ -734,7 +741,7 @@ initiate a dispute resolution procedure in relation to the matter which
 is the subject of the disciplinary procedure until the disciplinary
 procedure has been completed.
 
-## 28 Resolving disputes
+## 29 Resolving disputes
 
 If there is a dispute between a member and another member, a member and
 the association, or a member and the Committee, the parties involved
@@ -772,7 +779,7 @@ If the grievance procedure does not resolve the dispute, the parties may
 seek to resolve the dispute in accordance with the Act or otherwise at
 law.
 
-## 29 Funds
+## 30 Funds
 
 The association may derive or generate funds from joining and annual
 subscription fees, donations, grants, fundraising, interest, and any
@@ -800,7 +807,7 @@ For each Financial Year, the Committee must ensure that the requirements
 under the Act relating to the financial statements of the association
 are met.
 
-## 30 Code of conduct
+## 31 Code of conduct
 
 The Committee may define a code of conduct for members' behaviour. The
 current code of conduct must be publicly available online, alongside an
@@ -816,17 +823,17 @@ members in writing prior to coming into effect. Members may call a
 Special General Meeting to submit a resolution to alter the code of
 conduct.
 
-## 31 Common seal
+## 32 Common seal
 
 The association does not have a common seal.
 
-## 32 Changing the rules
+## 33 Changing the rules
 
 Subject to the Act, these rules may be changed, added to, or replaced
 only by special resolution of the association's members at a general
 meeting.
 
-## 33 Winding up and cancellation of the association
+## 34 Winding up and cancellation of the association
 
 The members may vote by special resolution at a general meeting to wind
 up the association or voluntarily cancel its registration.
@@ -852,7 +859,7 @@ winding up or voluntary cancellation. If the members do not make this
 decision, the association may apply to the Supreme Court of Victoria to
 make this decision.
 
-## 34 Notices
+## 35 Notices
 
 Members must give the association their address for notices, and any
 change in that address.
@@ -888,7 +895,7 @@ address.
 
 In this rule, 'member' includes a Committee Member.
 
-## 35 Interpretation
+## 36 Interpretation
 
 In these rules, \'writing\' includes email and other correspondence in
 electronic form.
