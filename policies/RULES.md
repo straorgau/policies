@@ -65,6 +65,7 @@ To join the association, the prospective member must be primarily resident in th
 The classes of membership are as follows:
 - Student Member;
 - Staff Member;
+- Legacy Member;
 - Youth Member,
 
 each a class of membership recognised by the association.
