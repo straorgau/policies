@@ -163,7 +163,8 @@ A member of the association of the following Classes of Membership are entitled 
 
 - Student Member - 1 vote;
 - Staff Member - 1 vote;
-- Legacy Member - 1 vote.
+- Legacy Member - 1 vote;
+- Youth Member - 1 vote.
 
 ## 11 Ending membership
 
