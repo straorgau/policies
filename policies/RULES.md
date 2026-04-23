@@ -391,7 +391,7 @@ Subject to these rules:
 -   each Committee Member must retire at least once every two years; and
 
 -   Committee Members can be re-elected for a maximum overall term of
-    eight years.
+    four years.
 
 ## 18 The Secretary
 
