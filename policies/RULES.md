@@ -73,7 +73,7 @@ Student Members must be a current student of a recognised Australian institution
 
 Staff Members must be a current staff member of a recognised Australian education institution at secondary or tertiary level, regardless of the role that a Staff Member may undertake during their employment at the institution.
 
-Youth Members must be within the age range of 14-25 (inclusive), and otherwise do not qualify for the classes of Student or Staff membership.
+Youth Members must be aged between 13 and 26. Youth Members must not qualify for other membership types.
 
 ### 6c Membership Reclassification
 If a member ceases to fulfill the criteria applicable to their current membership, they must alert the Secretary of the organisation, who must update their membership record as soon as possible. When that member renews their membership the following year, they must do so in accordance with their new membership type.
