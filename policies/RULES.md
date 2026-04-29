@@ -59,18 +59,16 @@ runs for a period of 12 months (Financial Year).
 
 The association must have at least five members.
 
-To join the association, the prospective member must be primarily resident in the State of Victoria, and currently qualify for any class of membership listed in Section 6a.
+To join the association, the prospective member must reside in the Australian state of Victoria, and currently qualify for a membership type listed in Section 6a.
 
-### 6a Membership Classes
-The classes of membership are as follows:
+### 6a Types of Membership
+The classes of membership, as recognised by the association, are as follows:
 - Student Member;
 - Staff Member;
 - Legacy Member;
-- Youth Member,
+- Youth Member.
 
-each a class of membership recognised by the association.
-
-### 6b Membership Class Eligibility
+### 6b Membership Eligibility
 Student Members must be a current student of a recognised Australian institution at secondary or tertiary level, inclusive of P-12 schools.
 
 Staff Members must be a current staff member of a recognised Australian education institution at secondary or tertiary level, regardless of the role that a Staff Member may undertake during their employment at the institution.
@@ -78,7 +76,7 @@ Staff Members must be a current staff member of a recognised Australian educatio
 Youth Members must be within the age range of 14-25 (inclusive), and otherwise do not qualify for the classes of Student or Staff membership.
 
 ### 6c Membership Reclassification
-The Committee may re-assign or transfer a member from one class of membership to another, if a member ceases to fulfill the criteria applicable to their current class of membership. Following reclassification, the Secretary must notify the member.
+If a member ceases to fulfill the criteria applicable to their current membership, they must alert the Secretary of the organisation, who must update their membership record as soon as possible. When that member renews their membership the following year, they must do so in accordance with their new membership type.
 
 ## 7 Membership applications
 
@@ -159,7 +157,7 @@ Each member's liability is limited to payment of that member\'s joining
 and annual subscription fees (if any).
 
 ## 10 Member entitlements to vote
-A member of the association of the following Classes of Membership are entitled to the following number of votes:
+Members of the association are entitled to equal votes, contingent on their membership type:
 
 - Student Member - 1 vote;
 - Staff Member - 1 vote;
