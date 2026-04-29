@@ -235,7 +235,7 @@ The Committee is made up of the following Committee Members:
 - up to five ordinary members of the Committee or such other number
   approved by members at a general meeting.
 
-Of these Committee Members, 51% must be Student Members at the time of election.
+Of these Committee Members, at least 51% must be Student Members at the time of election.
 
 Committee Members are elected by members at each Annual General Meeting
 **(AGM)** and may be elected at a Special General Meeting **(SGM)** in
