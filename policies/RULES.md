@@ -62,7 +62,7 @@ The association must have at least five members.
 To join the association, the prospective member must reside in the Australian state of Victoria, and currently qualify for a membership type listed in Section 6a.
 
 ### 6a Types of Membership
-The classes of membership, as recognised by the association, are as follows:
+The types of membership, as recognised by the association, are as follows:
 - Student Member;
 - Staff Member;
 - Legacy Member.
